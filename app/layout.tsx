@@ -9,7 +9,7 @@ const geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Rimigo - Vacations Made Effortless',
   description: 'Experience luxury travel planning redefined. Curated journeys, seamless bookings, and unforgettable moments.',
-  generator: 'v0.app',
+  generator: 'Devansh Sawant',
   icons: {
     icon: [
       {
